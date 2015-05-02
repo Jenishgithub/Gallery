@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
 				imageView.setImageResource(imageIDs[position]);
 			}
 
-		});
+		});//yo
 	}
 
 	public class ImageAdapter extends BaseAdapter {
